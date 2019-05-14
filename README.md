@@ -4,6 +4,11 @@ This is a set of examples I ([Bill Odom](http://www.billodom.com/)) created for 
 
 > [Spacewalk on Github](https://github.com/wnodom/spacewalk)
 
+# Navigation
+
+/ takes you to the main screen
+[ and ] navigate
+
 ---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
